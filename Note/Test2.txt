@@ -1,0 +1,20 @@
+ pwd-> absolute path of working directory
+ cal->calendar showing
+ date->date showing
+ tty->for current terminal
+ whoami->reveal user who currently login
+ id->default information about the current user is displayed
+ whatis->display description of the command
+ info-> documentry
+ ls->list of all the files and directories
+ ls/user->
+ ls-l->
+ mkdir->for making the directory
+ touch->to create text files
+ cp->copy of text file
+ mv->move the file from one location to another
+ rm->remove file/directory 
+ rmdir->remove empty directory
+ head->read first 10 lines of a file&(-n)used to increase and decrease
+ tail->read last 10 linesas usual head
+ wc
